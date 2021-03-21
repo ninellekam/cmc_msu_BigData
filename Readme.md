@@ -4,7 +4,7 @@
 Computers for business Investigation of Operations
 				STATE 3
 Students 311 - 312 study groups
-Volkova A., Kamkia N., Kozhukh P., Mirzoev S.
+Volkov A., Kamkia N., Kozhukh P., Mirzoev S.
 
 ![alt text](table.png "Описание будет тут")​
 
