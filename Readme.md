@@ -1,4 +1,4 @@
-# Moscow State University by M.V.Lomonosov
+# Lomonosov Moscow State University
 ## Faculty of Computational Mathematics and Cybernetics
 
 Computers for business Investigation of Operations
@@ -12,4 +12,3 @@ Volkova A., Kamkia N., Kozhukh P., Mirzoev S.
 - Table 2 creation
 - Table 3 creation
 - Save results
-
